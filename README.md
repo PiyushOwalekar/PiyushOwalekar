@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am Coder But I like Ganing❤️
+I am Coder But I like Gaming❤️
 
 
 # 💻 Tech Stack:
