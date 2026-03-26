@@ -34,4 +34,4 @@
 ---
 
 ## 🌐 Connect with Me:
-*(Add your links here like LinkedIn, Discord, etc.)*
+https://www.linkedin.com/in/piyush-owalekar-0a7359396/
