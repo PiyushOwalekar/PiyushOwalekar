@@ -14,10 +14,6 @@
 ---
 
 # 📊 GitHub Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PiyushOwalekar&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
-
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=PiyushOwalekar&theme=radical&hide_border=true)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PiyushOwalekar&theme=radical&hide_border=true&layout=compact)
 
 ---
